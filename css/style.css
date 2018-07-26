@@ -1,0 +1,43 @@
+.testing {
+  width: 71.42857%; }
+
+.backgroundRed {
+  background: red; }
+
+.bar {
+  background: #c8c8c8;
+  width: 9.9%;
+  height: 10px;
+  border-right: 1px solid black;
+  float: left; }
+
+.blue-point {
+  border-radius: 50%/60% 60% 40% 40%;
+  width: 10px;
+  height: 15px;
+  background: #17afab;
+  position: fixed;
+  margin-top: -8px; }
+
+.red-point {
+  border-radius: 50%/60% 60% 40% 40%;
+  width: 10px;
+  height: 15px;
+  background: #cd3e36;
+  position: fixed;
+  margin-top: 5px; }
+
+.last {
+  border: none; }
+
+.first {
+  border: none; }
+
+.icon-save {
+  background-image: url("/images/save.png"); }
+
+.icon-cancel {
+  background-image: url("/images/cancel.png"); }
+
+.icon-help {
+  background-image: url("/images/help.png"); }
